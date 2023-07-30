@@ -483,6 +483,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game agent framework. Use any video game as a deep learning sandbox.
 * [tensorflow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 * [Theano](https://github.com/Theano/Theano) - A library for fast numerical computation.
+* [lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 
 ## DevOps Tools
 
@@ -786,7 +787,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 * [Pyjion](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR.
 * [PyPy](https://foss.heptapod.net/pypy/pypy) - A very fast and compliant implementation of the Python language.
-* [Pyston](https://github.com/dropbox/pyston) - A Python implementation using JIT techniques.
+* [Pyston](https://github.com/pyston/pyston/) - A Python implementation using JIT techniques.
 * [Stackless Python](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
 
 ## Interactive Interpreter
