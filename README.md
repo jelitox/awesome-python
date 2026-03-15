@@ -1034,7 +1034,7 @@ _Libraries for testing codebases and generating test data._
 
 - Testing Frameworks
   - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is an advanced Quickcheck style property based testing library.
-  - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2.
+  - [nose2](https://github.com/nose-devs/nose2) - The successor to `nose`, based on `unittest2`.
   - [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
   - [Robot Framework](https://github.com/robotframework/robotframework) - A generic test automation framework.
   - [ScanAPI](https://pypi.org/project/scanapi/) - Automated Testing and Documentation for your REST API.
@@ -1143,6 +1143,7 @@ _Libraries for extracting web contents._
 _Libraries to automate web scraping._
 
 - [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
 - [feedparser](https://github.com/kurtmckee/feedparser) - Universal feed parser.
 - [grab](https://github.com/lorien/grab) - Site scraping framework.
 - [mechanicalsoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
