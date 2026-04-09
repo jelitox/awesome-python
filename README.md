@@ -135,6 +135,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [autogen](https://github.com/microsoft/autogen) - A programming framework for building agentic AI applications.
   - [crewai](https://github.com/crewAIInc/crewAI) - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
   - [dspy](https://github.com/stanfordnlp/dspy) - A framework for programming, not prompting, language models.
+  - [hermes-agent](https://github.com/nousresearch/hermes-agent) - An adaptive AI agent framework that grows with you.
   - [langchain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
   - [pydantic-ai](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
   - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
@@ -271,6 +272,7 @@ _Libraries for working with WebSocket._
 - [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 - [channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
 - [flask-socketio](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
+- [picows](https://github.com/tarasko/picows) - Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.
 - [websockets](https://github.com/python-websockets/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
 
 ## Template Engines
